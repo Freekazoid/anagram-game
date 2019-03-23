@@ -1,0 +1,8 @@
+DefaultLanguage en
+AddDefaultCharset utf-8
+php_value default_charset "utf-8"
+
+ # Устанавливает по умолчанию временную зону
+php_value date.timezone "Europe/Moscow"
+
+
